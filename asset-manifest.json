@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.567b47a5.css",
-    "main.js": "/static/js/main.d6fdb00d.js",
-    "static/js/787.b6e3ec69.chunk.js": "/static/js/787.b6e3ec69.chunk.js",
-    "static/media/logo.png": "/static/media/logo.12ee7e241b36031ec32b.png",
-    "index.html": "/index.html",
-    "main.567b47a5.css.map": "/static/css/main.567b47a5.css.map",
-    "main.d6fdb00d.js.map": "/static/js/main.d6fdb00d.js.map",
-    "787.b6e3ec69.chunk.js.map": "/static/js/787.b6e3ec69.chunk.js.map"
+    "main.css": "/leclubleselfes/static/css/main.567b47a5.css",
+    "main.js": "/leclubleselfes/static/js/main.59abc86e.js",
+    "static/js/787.b6e3ec69.chunk.js": "/leclubleselfes/static/js/787.b6e3ec69.chunk.js",
+    "static/media/logo.png": "/leclubleselfes/static/media/logo.12ee7e241b36031ec32b.png",
+    "index.html": "/leclubleselfes/index.html",
+    "main.567b47a5.css.map": "/leclubleselfes/static/css/main.567b47a5.css.map",
+    "main.59abc86e.js.map": "/leclubleselfes/static/js/main.59abc86e.js.map",
+    "787.b6e3ec69.chunk.js.map": "/leclubleselfes/static/js/787.b6e3ec69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.567b47a5.css",
-    "static/js/main.d6fdb00d.js"
+    "static/js/main.59abc86e.js"
   ]
 }
